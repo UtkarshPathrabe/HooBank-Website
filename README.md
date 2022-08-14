@@ -1,2 +1,4 @@
-# HooBank Website
- Modern UI/UX website using React.js & Tailwind CSS
+HooBank Website
+===============
+
+Modern UI/UX website created using React.js & Tailwind CSS
